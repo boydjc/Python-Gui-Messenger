@@ -1,6 +1,6 @@
-# Filename: PyChat
+# Filename: PythonChat
 
-"""PyChat is a simple messaging application built using Python and PyQt5"""
+"""PythonChat is a simple messaging application built using Python and PyQt5"""
 
 import sys
 from PyQt5.QtWidgets import QApplication
